@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-linux-parrot"
+description = "Parrot OS security and digital forensics integration"
+version = "0.1.0"
+tier = 2
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
