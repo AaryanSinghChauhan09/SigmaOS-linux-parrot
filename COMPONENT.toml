@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-parrot"
-description = "Parrot OS security and digital forensics integration"
+description = "SigmaOS component: SigmaOS-linux-parrot"
 version = "0.1.0"
 tier = 2
 
